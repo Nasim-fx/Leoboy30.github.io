@@ -9,7 +9,7 @@
 
 **Click [WEB LINK](https://Leoboy30.github.io)**
 
-## https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=25&pause=1000&color=000000&background=000000&center=true&vCenter=true&lines=Welcome+to+my+github;Thank+you)](https://git.io/typing-svg
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=25&pause=1000&color=000000&background=000000&center=true&vCenter=true&lines=Welcome+to+my+github;Thank+you)](https://git.io/typing-svg)
 
  </a>
 </p>
