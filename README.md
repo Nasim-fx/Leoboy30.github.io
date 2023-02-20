@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/ys._.panda">
+  <a href="https://instagram.com/nazim.x10">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a
